@@ -1,0 +1,5 @@
+### macOS template
+*.DS_Store
+*.log
+node_modules
+/test.js
