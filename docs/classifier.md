@@ -7,7 +7,7 @@
     * [new ClassifierManager()](#new_ClassifierManager_new)
     * [.create(classifier, [opts])](#ClassifierManager+create) ⇒ <code>Promise</code>
     * [.delete(classifier)](#ClassifierManager+delete) ⇒ <code>Promise</code>
-    * [.list(classifier, [pageLimit], [page])](#ClassifierManager+list) ⇒ <code>\*</code>
+    * [.list(classifier, [pageLimit], [page])](#ClassifierManager+list) ⇒ <code>Promise</code>
     * [.getCategory(classifier, category)](#ClassifierManager+getCategory) ⇒ <code>Promise</code>
     * [.deleteCategory(classifier, category)](#ClassifierManager+deleteCategory) ⇒ <code>Promise</code>
 
@@ -60,7 +60,7 @@ Deletes a Classifier
 
 <a name="ClassifierManager+list"></a>
 
-### classifierManager.list(classifier, [pageLimit], [page]) ⇒ <code>\*</code>
+### classifierManager.list(classifier, [pageLimit], [page]) ⇒ <code>Promise</code>
 Lists all categories for a given classifier.
 
 **Kind**: instance method of <code>[ClassifierManager](#ClassifierManager)</code>  

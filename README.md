@@ -9,7 +9,7 @@ npm i --save textrazor-sdk
 ```
 
 ## Additional Docs
-View function docs [here](/docs).
+View function docs [here](https://github.com/beardyman/textrazor/tree/master/docs).
 
 ## Basic Usage
 All functions return `bluebird` promises.

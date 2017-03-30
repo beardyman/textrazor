@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Fully featured node wrapper for textrazor's REST API",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/beardyman/textrazor.git"
+  },
   "engines": {
     "node": ">=4.0.0"
   },
