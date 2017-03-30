@@ -1,6 +1,6 @@
 
 # Textrazor-sdk
-This is an *unofficial* wrapper for textrazor's REST API.  For a full reference to TextRazor's REST API, check out their documentation: https://www.textrazor.com/docs/rest
+This is an **unofficial** wrapper for textrazor's REST API.  For a full reference to TextRazor's REST API, check out their documentation: https://www.textrazor.com/docs/rest
 
 ## Install
 ```bash
