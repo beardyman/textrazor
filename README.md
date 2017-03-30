@@ -8,7 +8,10 @@ npm i --save textrazor-sdk
 
 ```
 
-##Usage
+## Additional Docs
+View function docs [here](/docs).
+
+##Basic Usage
 All functions return `bluebird` promises.
 
 ```js
