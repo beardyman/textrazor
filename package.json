@@ -12,7 +12,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublish": "grunt jsdoc2md"
+    "preversion": "grunt jsdoc2md"
   },
   "keywords": [],
   "author": "@beardyman",
