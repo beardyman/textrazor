@@ -1,8 +1,8 @@
 
-#Textrazor-sdk
+# Textrazor-sdk
 This is an *unofficial* wrapper for textrazor's REST API.  For a full reference to TextRazor's REST API, check out their documentation: https://www.textrazor.com/docs/rest
 
-##Install
+## Install
 ```bash
 npm i --save textrazor-sdk
 
@@ -11,7 +11,7 @@ npm i --save textrazor-sdk
 ## Additional Docs
 View function docs [here](/docs).
 
-##Basic Usage
+## Basic Usage
 All functions return `bluebird` promises.
 
 ```js
