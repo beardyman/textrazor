@@ -30,7 +30,7 @@ textrazor.parser.parse('A total solar eclipse will take place on Aug. 21, 2017. 
   });
 ```
 
-## Example response
+## Example Parser Response
 Response from the "Usage" section above with most entities removed for conciseness. 
 ```json
 {
