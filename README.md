@@ -7,6 +7,8 @@ This is an **unofficial** wrapper for textrazor's REST API.  For a full referenc
 npm i --save textrazor-sdk
 
 ```
+## Issues
+Please submit issues on the github repo [here](https://github.com/beardyman/textrazor)
 
 ## Additional Docs
 View function docs [here](https://github.com/beardyman/textrazor/tree/master/docs).
@@ -28,7 +30,7 @@ textrazor.parser.parse('A total solar eclipse will take place on Aug. 21, 2017. 
   });
 ```
 
-## Example response
+## Example Parser Response
 Response from the "Usage" section above with most entities removed for conciseness. 
 ```json
 {
